@@ -1,0 +1,7 @@
+this goes to a file truncating it first
+this goes to a file appending it
+this goes to a file appending it
+this goes to a file appending it
+Fri 24 Nov 10:44:17 GMT 2017 this goes to a file appending it
+Fri 24 Nov 10:44:56 GMT 2017 this goes to a file appending it
+Fri 24 Nov 10:45:53 GMT 2017 900 files open
